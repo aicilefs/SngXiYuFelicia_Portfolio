@@ -1,3 +1,4 @@
 <img width="996" height="922" alt="Week 6_BoidsPainting_Image 1" src="https://github.com/user-attachments/assets/0874094b-ab4e-4e1f-9caa-0621d7f2f867" />
 <img width="996" height="922" alt="Week 6_BoidsPainting_Image 2" src="https://github.com/user-attachments/assets/14e9e378-7385-4a60-8f43-015bc63c9e7b" />
 <img width="996" height="922" alt="Week 6_BoidsPainting_Image 3" src="https://github.com/user-attachments/assets/1b8bdd03-e512-4f64-88b0-c7c59bb265f7" />
+What I find interesting about this code is that no one tells the flock where to go. Each boid only follows three simple rules about its nearby neighbours: keep some distance (separation), face the same way (alignment) and stay close to the group (cohesion). Together these create movement that looks like a flock of birds or a school of fish.
