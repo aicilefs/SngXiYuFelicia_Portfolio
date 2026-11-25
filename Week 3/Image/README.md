@@ -1,2 +1,2 @@
 <img width="1175" height="906" alt="Week 3_MicroAnimations_Image" src="https://github.com/user-attachments/assets/e5e6b968-f3b0-47fd-aac2-0884d3814dcb" />
-//I think what is interesting about this code is that the code manages to change a lot of variables (xpos, ypos, circle size) at the same time without it being a very long code. The final output has generated a complex visual even though the code is not very complicated and long.
+I think what is interesting about this code is that the code manages to change a lot of variables (xpos, ypos, circle size) at the same time without it being a very long code. The final output has generated a complex visual even though the code is not very complicated and long.
